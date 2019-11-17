@@ -15,5 +15,4 @@ export default class DriverBuilder {
   async quit (): Promise<void> {
     return this.driver.quit()
   }
-
 }

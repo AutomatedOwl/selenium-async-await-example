@@ -1,5 +1,5 @@
 {
-  "name": "webdriver-mocha-async-await-example",
+  "name": "selenium-async-await-examplee",
   "version": "2.0.0",
   "description": "Using Mocha, Selenium Webdriver, and Babel together to provide async / await to browser e2e tests",
   "engines": {
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/airware/webdriver-mocha-async-await-example.git"
+    "url": "git+https://github.com/automatedowl/selenium-async-await-examplee.git"
   },
-  "author": "Airware",
+  "author": "automatedowl",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/airware/webdriver-mocha-async-await-example/issues"
+    "url": "https://github.com/automatedowl/selenium-async-await-examplee/issues"
   },
-  "homepage": "https://github.com/airware/webdriver-mocha-async-await-example#readme",
+  "homepage": "https://github.com/automatedowl/selenium-async-await-examplee#readme",
   "dependencies": {
     "babel-plugin-transform-flow-strip-types": "^6.22.0",
     "babel-plugin-transform-object-rest-spread": "^6.23.0",
