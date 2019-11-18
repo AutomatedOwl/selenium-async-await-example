@@ -20,7 +20,7 @@ describe('Acceptance Tests', function () {
     // await homePage.isLoaded()
     // const title = await homePage.getTitle()
     await homePage.sendKeys(By.xpath('//textarea'), process.env.npm_config_input_text)
-    await sleep(30000)
+    await sleep(90000)
   })
 
   afterEach(async function () {
